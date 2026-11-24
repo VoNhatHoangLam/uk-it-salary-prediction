@@ -1,6 +1,6 @@
 # Dự đoán lương ngành IT tại Anh
 
-Dự án hướng tới xây dựng mô hình dự đoán lương cho các vị trí IT tại Vương quốc Anh. Mục tiêu thu thập ít nhất 1.000 dòng dữ liệu thô.
+Dự án hướng tới xây dựng mô hình dự đoán lương cho các vị trí IT tại Vương quốc Anh.
 
 ## Cấu trúc dự án
 
